@@ -1,2 +1,2 @@
 # POC
-human_recognition & object detection
+human_recognition
